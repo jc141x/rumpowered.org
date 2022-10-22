@@ -1,0 +1,17 @@
+{{ with $.Page.Params.magnet }}
+<div class="flex space-x-3">
+  <a class="!rounded-md bg-primary-600 px-4 py-1 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700" href="{{ . | safeURL }}" role="button" id="magnet">Magnet Link</a>
+  <button class="!rounded-md bg-primary-600 px-4 py-1 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700" onClick="copyMagnet(event)">Copy Magnet Link</button>
+</div>
+
+<script>
+function copyMagnet(event) {
+  var copyText = document.getElementById("magnet");
+  navigator.clipboard.writeText(copyText.href);
+  event.target.innerText = 'Copied!'
+  setTimeout(function () {
+      event.target.innerText = 'Copy Magnet Link';
+  }, 1000);
+}
+</script>
+{{ end }}
