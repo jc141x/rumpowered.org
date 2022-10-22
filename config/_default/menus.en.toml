@@ -40,7 +40,7 @@
   pageRef = "about"
   weight = 10
 
-[[footer]]
-  name = "Donate"
-  pageRef = "donate"
-  weight = 20
+# [[footer]]
+#   name = "Donate"
+#   pageRef = "donate"
+#   weight = 20
