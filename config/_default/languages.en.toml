@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "rumpoweredtest"
+#title = "rumpoweredtest"
 # logo = "img/logo.png"
 #description = ""
 copyright = "a jc141 production"
