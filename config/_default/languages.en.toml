@@ -5,10 +5,10 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "rumpowered"
+title = "rumpoweredtest"
 # logo = "img/logo.png"
-description = "My awesome website"
-copyright = "Copy, _right?_ :thinking_face:"
+#description = ""
+copyright = "a jc141 production"
 
 dateFormat = "2 January 2006"
 
