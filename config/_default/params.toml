@@ -6,7 +6,7 @@
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
 colorScheme = "avocado"
-defaultAppearance = "light" # valid options: light or dark
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -36,7 +36,7 @@ mainSections = ["posts", "releases"]
   showDateUpdated = true
   showAuthor = false
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background
+  heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
@@ -58,7 +58,7 @@ mainSections = ["posts", "releases"]
 [list]
   showBreadcrumbs = true
   showSummary = true
-  showTableOfContents = true
+  showTableOfContents = false
   showCards = false
   groupByYear = true
 
