@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-#title = "rumpoweredtest"
+title = "rumpowered"
 # logo = "img/logo.png"
-#description = ""
+# description = ""
 copyright = "a jc141 production"
 
 dateFormat = "2 January 2006"
