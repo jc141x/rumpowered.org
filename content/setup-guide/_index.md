@@ -12,6 +12,8 @@ cascade:
 Everything you need to do before playing our releases.
 {{< /lead >}}
 
+_Haven't installed GNU/Linux yet? check out [EndeavourOS](https://discovery.endeavouros.com/installation/create-install-media-usb-key/2021/03/)_
+
 ## Supported Distributions
 
 |                                 | Notes                                                                |
@@ -40,6 +42,8 @@ Our Releases might work but we can't promise anything and don't want to waste ti
 | SteamOS                          | Malware, Read-only file system, Lack of required packages                                                 |
 | Fedora Silverblue                | Read-only file system                                                                                     |
 
+
 ## Notes
-- Vulkan support is required
-- NTFS filesystem is not supported
+- The GPU/APU must have vulkan support otherwise hardly any releases with wine will run.
+- The dwarfs mounting system requires modern speed standards from storing devices as well as RAM.
+- The testing is done on Arch or EndeavourOS with EXT4, BTRFS or XFS filesystems.
