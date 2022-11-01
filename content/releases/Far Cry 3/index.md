@@ -7,8 +7,9 @@ magnet: "magnet:?xt=urn:btih:8AF56DA27C45C533B8D3FCF4AA5D565E2089B1A3&dn=Far+Cry
 featured: "https://cdn.akamai.steamstatic.com/steam/apps/220240/library_hero.jpg"
 ---
 
+{{< Lead > }
 Discover the dark secrets of a lawless island ruled by violence and take the fight to the enemy as you try to escape. You’ll need more than luck to escape alive!
-
+{{< /Lead >}}
 ## System Requirements
 - Processor:Intel Core®2 Duo E6700 @ 2.6 GHz or AMD Athlon64 X2 6000+ @ 3.0Ghz or better
 - Memory:4 GB RAM
