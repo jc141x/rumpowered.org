@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jc141x.github.io/sitemap.xml
