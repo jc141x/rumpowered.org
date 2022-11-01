@@ -12,7 +12,7 @@ cascade:
 Everything you need to do before playing our releases.
 {{< /lead >}}
 
-_Haven't installed GNU/Linux yet? check out [EndeavourOS](https://discovery.endeavouros.com/installation/create-install-media-usb-key/2021/03/)_
+_Haven't installed GNU/Linux yet ? check out [EndeavourOS](https://discovery.endeavouros.com/installation/create-install-media-usb-key/2021/03/)_
 
 ## Supported Distributions
 
